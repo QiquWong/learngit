@@ -1,2 +1,2 @@
-This is for learning how to use git picture2.
+This is for learning how to use git picture.
 create a new branch.
